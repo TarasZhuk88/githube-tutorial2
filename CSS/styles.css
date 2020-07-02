@@ -1,0 +1,32 @@
+p {
+  font-size: 24px;
+}
+a {
+  text-decoration: none;
+}
+.title {
+  font-size: 50px;
+}
+.text {
+  color: rgb(236, 24, 24);
+  font-size: 18px;
+}
+.social-links a {
+  }
+.section-our-team a {color: chartreuse;
+  text-decoration: pink;
+}}
+.section-our-team h2 { color: purple; font-size: larger;}
+.section-our-team h3 { color: red }
+.section-our-team p {color: salmon;}
+.section-our-team img {flex: inherit;}
+
+.link {
+  color: teal;
+}
+
+.link:hover {
+  color: orange;
+}
+.social-links .link {color: teal;}
+.social-links .link: :focus {color: orange;}
